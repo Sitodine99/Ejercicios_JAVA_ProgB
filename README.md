@@ -5,4 +5,4 @@
 
 [UF 04: Programación Orientada a Objetos](Ejercicios/README02.md)
 
-[Ejercicios inventados (para estudiar)](README03.md)
+[Ejercicios inventados (para estudiar)](Ejercicios/Inventados/README03.md)
